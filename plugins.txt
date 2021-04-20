@@ -1,0 +1,4 @@
+job-dsl
+beer:1.1
+ace-editor
+pipeline-utility-steps:2.7.1
