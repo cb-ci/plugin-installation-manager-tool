@@ -73,7 +73,7 @@ boolean updateCenterActionDryRun = true
  *
  * Note: With either LATEST / DEFAULT, the output shows all the required dependencies
  */
-String updateCenterStoreStrategy = "LATEST"
+String updateCenterStoreStrategy = "DEFAULT"
 /**
  * Strategy for picking available version. When checking version available for download, the script picks the exact
  * version if it can find it, otherwise the default behavior is to pick the latest version available. This can be
